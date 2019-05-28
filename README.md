@@ -18,3 +18,6 @@ This guide is for you can login in your GitHub account, using Linux terminal and
       git config --global core.editor "code -wait --user-data-dir"
 #
       git config --global -e
+      
+      
+      Now follow this instructions https://github.com/microsoft/Git-Credential-Manager-for-Mac-and-Linux/blob/master/Install.md 
