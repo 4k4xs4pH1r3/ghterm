@@ -11,8 +11,9 @@ This guide allows you to login your GitHub user and edit and commit groups of fi
 #      
       git config --global user.email "youremail"
 #      
-      git config --list
-      
+      git config --global credential.helper cache
+#      
+      git config --list      
       
       
       
