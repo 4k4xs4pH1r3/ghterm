@@ -20,4 +20,13 @@ This guide is for you can login in your GitHub account, using Linux terminal and
       git config --global -e
       
       
-      Now follow this instructions https://github.com/microsoft/Git-Credential-Manager-for-Mac-and-Linux/blob/master/Install.md 
+      Now follow this instructions 
+      
+      https://github.com/microsoft/Git-Credential-Manager-for-Mac-and-Linux/blob/master/Install.md 
+      
+      To work with Remote Repos follow:
+      
+      https://help.github.com/en/articles/adding-a-remote
+      https://help.github.com/en/articles/removing-a-remote
+      
+      
