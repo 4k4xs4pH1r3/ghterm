@@ -29,4 +29,7 @@ This guide is for you can login in your GitHub account, using Linux terminal and
       https://help.github.com/en/articles/adding-a-remote
       https://help.github.com/en/articles/removing-a-remote
       
+      To work with vscode
+      
+      https://github.com/Microsoft/vscode
       
