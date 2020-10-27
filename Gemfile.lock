@@ -22,7 +22,7 @@ GEM
     rest-client (1.6.3)
       mime-types (>= 1.16)
     sinatra (1.2.6)
-      rack (~> 1.1)
+      rack (>= 2.1.4)
       tilt (>= 1.2.2, < 2.0)
     sinatra_auth_github (0.1.2)
       rest-client (~> 1.6.1)
