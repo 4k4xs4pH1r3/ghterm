@@ -14,7 +14,7 @@ GEM
     multi_json (1.0.3)
     multipart-post (1.1.2)
     nestful (0.0.6)
-      activesupport (>= 3.0.0.beta)
+      activesupport (>= 4.1.11)
     oauth2 (0.4.1)
       faraday (~> 0.6.1)
       multi_json (>= 0.0.5)
